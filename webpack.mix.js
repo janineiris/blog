@@ -11,7 +11,6 @@ mix.webpackConfig({
     ]
 });
 
-mix.copyDirectory( './node_modules/@fortawesome/fontawesome-free/webfonts', './source/_assets/vendor/fonts/font-awesome' );
 
 mix.js('source/_assets/js/main.js', 'js')
     .sass('source/_assets/sass/main.scss', 'css')
