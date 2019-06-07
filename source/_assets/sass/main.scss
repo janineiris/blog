@@ -1,0 +1,14 @@
+// ~ é um alias para node_modules
+
+//Importa fontes
+@import "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic";
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800";
+
+
+@import "~bootstrap/scss/bootstrap";
+// $fa-font-path: "../vendor/fonts/font-awesome";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "../vendor/clean-blog/scss/clean-blog";
